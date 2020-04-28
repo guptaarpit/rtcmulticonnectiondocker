@@ -1,0 +1,18 @@
+{
+  "socketURL": "",
+  "dirPath": "",
+  "homePage": "",
+  "socketMessageEvent": "RTCMultiConnection-Message",
+  "socketCustomEvent": "RTCMultiConnection-Custom-Message",
+  "port": "3000",
+  "enableLogs": "false",
+  "autoRebootServerOnFailure": "false",
+  "isUseHTTPs": "true",
+  "logs": "./logs.json",
+  "sslKey": "./ssl/optimizevents.key",
+  "sslCert": "./ssl/1e3ad6daa1a8f5ba.pem",
+  "sslCabundle": "./ssl/gd_bundle-g2-g1.crt",
+  "enableAdmin": "false",
+  "adminUserName": "username",
+  "adminPassword": "password"
+}
